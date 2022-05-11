@@ -1,0 +1,63 @@
+html{
+    scroll-behavior: auto !important;
+}
+
+.navbar{
+    background-color:rgb(41, 160, 160);
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+
+#logo_viajes{
+    width: 20px;
+}
+
+#Quienes-somos{
+    background-color: black;
+    width: 100vw;
+    font-family: "Open Sans";
+    line-height: 3;
+}
+
+#Quienes-somos a{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(41, 160, 160);
+    background-position: center;
+    width: 28vw;
+    position: absolute;
+}
+
+#Quienes-somos i{
+    position: center;
+    margin: 0%;
+}
+
+#destacados{
+    background-color:black;
+}
+
+#contacto{
+    background-color: black;
+}
+
+#footer{
+    background-color: rgb(41, 160, 160);
+}
+
+#footer h1{
+    font-family: "Open Sans";
+}
+
+
+
+#footer a{
+    color: white;
+    text-decoration: none;
+}
+
+#contacto{
+    border-left: 4px;
+    border-right: 4px;
+}
